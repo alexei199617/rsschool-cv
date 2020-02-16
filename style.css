@@ -1,0 +1,77 @@
+body {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.main {
+    max-width: 1024px;
+    height: 900px;
+    background-color: rgba(144, 238, 144, 0.9);
+    padding: 0;
+    font-family: sans-serif;
+    margin: 0 auto;
+}
+
+.photo {
+    text-align: center;
+    padding-top: 8px;
+}
+
+.photo1 {
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 324px;
+    height: 432px;
+}
+
+.cloud {
+    border-radius: 10px;
+    border: 7px solid #191970;
+    background-color: #AFEEEE;
+    width: 330px;
+    height: auto;
+    padding: 30px;
+    margin-top: 80px;
+    margin-left: 40px;
+}
+
+.card {
+    width: 500px;
+    height: 440px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+
+.icon {
+    border-radius: 10px;
+    border: 7px solid #f50;
+    background-color: #ff9300;
+    width: 200px;
+    text-align: center;
+    margin-left: 130px;
+    margin-top: 70px;
+}
+
+.iconmin{
+    border-radius: 10px;
+    border: 7px solid #f50;
+    background-color: #ff9300;
+    width: 200px;
+    text-align: center;
+    margin-left: 130px;
+    margin-top: 36px;
+}
+
+.left {
+    margin-left: 80px;
+}
+
+.leftplus {
+    margin-left: 100px;
+}
+
+.size {
+    font-weight: 600;
+}
